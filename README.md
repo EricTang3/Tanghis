@@ -1,2 +1,2 @@
 # Tanghis
-Hello fellow conquerers
+Hello fellow conquerors
